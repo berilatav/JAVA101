@@ -1,2 +1,2 @@
 # JAVA101
-ODEV1
+Not Ortalaması Hesaplama
